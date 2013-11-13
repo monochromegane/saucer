@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Saucer::VERSION
   spec.authors       = ["monochromegane"]
   spec.email         = ["dev.kuro.obi@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{RESTful API client.}
+  spec.summary       = %q{RESTful API client.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
