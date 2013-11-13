@@ -1,5 +1,8 @@
 require "saucer/version"
+require "saucer/resource"
 
 module Saucer
-  # Your code goes here...
+  def self.resouce_of(resource)
+    Saucer::Resource.new(resource)
+  end
 end
